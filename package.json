@@ -1,0 +1,23 @@
+{
+  "name": "com.mygamedev.audioeffectkit",
+  "version": "1.0.0",
+  "displayName": "[EF]Audio Effect Kit",
+  "description": "Unity音效管理模块，提供完整的音效播放、管理和扩展系统",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "dependencies": {
+    "com.mygamedev.core": "1.0.0",
+    "com.cysharp.unitask": "2.5.10"
+  },
+  "keywords": [
+    "audio",
+    "sound",
+    "effect",
+    "manager",
+    "3d-audio"
+  ],
+  "author": {
+    "name": "EricZhao",
+    "email": "kaka12300wu@gmail.com"
+  }
+}
