@@ -1,6 +1,6 @@
 {
   "name": "com.mygamedev.audioeffectkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "[EF]Audio Effect Kit",
   "description": "Unity音效管理模块，提供完整的音效播放、管理和扩展系统",
   "unity": "2022.3",
